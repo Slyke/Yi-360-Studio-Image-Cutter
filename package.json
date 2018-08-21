@@ -1,0 +1,24 @@
+{
+  "name": "yi_cutter",
+  "version": "1.0.0",
+  "description": "Cut equirectangular hemispheres and combine for rendering with Yi 360 Studio",
+  "main": "index.js",
+  "dependencies": {
+    "jimp": "^0.3.5",
+    "piexifjs": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Slyke/Yi-360-Studio-Image-Cutter.git"
+  },
+  "author": "Slyke (steven.lawler777@gmail.com)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Slyke/Yi-360-Studio-Image-Cutter/issues"
+  },
+  "homepage": "https://github.com/Slyke/Yi-360-Studio-Image-Cutter#readme"
+}
