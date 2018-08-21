@@ -22,3 +22,6 @@ Metadata is copied from the top image by default, unless set to 'bottom'.
 
 Example Usage:
   `node.exe index -bottom ./bottomImage.jpg -top ./topImage.jpg`
+
+## How it works:
+It takes the top half of the top image and places it onto the top half of the bottom image. This should work with any image if you wish to test it. The trickiest part is keeping the metadata intact for stricting on Yi 360 Studio.
